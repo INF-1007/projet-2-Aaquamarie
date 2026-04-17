@@ -8,7 +8,7 @@ class MotoSpecs:
 
     # Moteur
     moteur_nom = "moto_engine"
-    moteur_puissance = 200
+    moteur_poids = 200
     moteur_acceleration = 35
 
     # Châssis
@@ -30,7 +30,7 @@ class AutoSpecs:
     roue_support = 500
 
     moteur_nom = "car_engine"
-    moteur_puissance = 300
+    moteur_poids = 300
     moteur_acceleration = 25
 
     chassis_nom = "car_frame"
@@ -51,7 +51,7 @@ class CamionSpecs:
     roue_support = 800
 
     moteur_nom = "truck_engine"
-    moteur_puissance = 600
+    moteur_poids = 600
     moteur_acceleration = 15
 
     chassis_nom = "truck_frame"
